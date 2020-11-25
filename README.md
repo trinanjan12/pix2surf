@@ -1,4 +1,4 @@
-# The readme file contains most of the documentation from the original repo.
+# The readme file contains most of the documentation from the [original repo](https://github.com/aymenmir1/pix2surf).
 # important changes :
 1. Run demo_requirments.sh and download_assets.sh for demo
 2. To prepare data for further training use the data_prep.sh script
